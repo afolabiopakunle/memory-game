@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+    background-color: #21a;
+}
